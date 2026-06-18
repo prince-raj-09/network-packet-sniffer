@@ -1,0 +1,122 @@
+[
+  {
+    "timestamp": "2026-06-18 13:31:10.004",
+    "src_ip": "192.168.1.5",
+    "dst_ip": "192.168.1.1",
+    "protocol": "UDP",
+    "length": 75,
+    "src_port": 55106,
+    "dst_port": 53,
+    "ttl": 64,
+    "flags": null,
+    "summary": "192.168.1.5:55106 -> 192.168.1.1:53 [UDP] len=75"
+  },
+  {
+    "timestamp": "2026-06-18 13:31:10.005",
+    "src_ip": "192.168.1.5",
+    "dst_ip": "192.168.1.1",
+    "protocol": "UDP",
+    "length": 75,
+    "src_port": 55106,
+    "dst_port": 53,
+    "ttl": 64,
+    "flags": null,
+    "summary": "192.168.1.5:55106 -> 192.168.1.1:53 [UDP] len=75"
+  },
+  {
+    "timestamp": "2026-06-18 13:31:10.007",
+    "src_ip": "192.168.1.5",
+    "dst_ip": "192.168.1.1",
+    "protocol": "UDP",
+    "length": 95,
+    "src_port": 49127,
+    "dst_port": 53,
+    "ttl": 64,
+    "flags": null,
+    "summary": "192.168.1.5:49127 -> 192.168.1.1:53 [UDP] len=95"
+  },
+  {
+    "timestamp": "2026-06-18 13:31:10.007",
+    "src_ip": "192.168.1.5",
+    "dst_ip": "192.168.1.1",
+    "protocol": "UDP",
+    "length": 95,
+    "src_port": 49127,
+    "dst_port": 53,
+    "ttl": 64,
+    "flags": null,
+    "summary": "192.168.1.5:49127 -> 192.168.1.1:53 [UDP] len=95"
+  },
+  {
+    "timestamp": "2026-06-18 13:31:10.144",
+    "src_ip": "192.168.1.1",
+    "dst_ip": "192.168.1.5",
+    "protocol": "UDP",
+    "length": 127,
+    "src_port": 53,
+    "dst_port": 55106,
+    "ttl": 64,
+    "flags": null,
+    "summary": "192.168.1.1:53 -> 192.168.1.5:55106 [UDP] len=127"
+  },
+  {
+    "timestamp": "2026-06-18 13:31:10.145",
+    "src_ip": "192.168.1.1",
+    "dst_ip": "192.168.1.5",
+    "protocol": "UDP",
+    "length": 111,
+    "src_port": 53,
+    "dst_port": 49127,
+    "ttl": 64,
+    "flags": null,
+    "summary": "192.168.1.1:53 -> 192.168.1.5:49127 [UDP] len=111"
+  },
+  {
+    "timestamp": "2026-06-18 13:31:10.147",
+    "src_ip": "192.168.1.1",
+    "dst_ip": "192.168.1.5",
+    "protocol": "UDP",
+    "length": 211,
+    "src_port": 53,
+    "dst_port": 55106,
+    "ttl": 64,
+    "flags": null,
+    "summary": "192.168.1.1:53 -> 192.168.1.5:55106 [UDP] len=211"
+  },
+  {
+    "timestamp": "2026-06-18 13:31:10.148",
+    "src_ip": "192.168.1.1",
+    "dst_ip": "192.168.1.5",
+    "protocol": "UDP",
+    "length": 123,
+    "src_port": 53,
+    "dst_port": 49127,
+    "ttl": 64,
+    "flags": null,
+    "summary": "192.168.1.1:53 -> 192.168.1.5:49127 [UDP] len=123"
+  },
+  {
+    "timestamp": "2026-06-18 13:31:10.357",
+    "src_ip": "192.168.1.5",
+    "dst_ip": "192.168.1.1",
+    "protocol": "UDP",
+    "length": 97,
+    "src_port": 47706,
+    "dst_port": 53,
+    "ttl": 64,
+    "flags": null,
+    "summary": "192.168.1.5:47706 -> 192.168.1.1:53 [UDP] len=97"
+  },
+  {
+    "timestamp": "2026-06-18 13:31:10.358",
+    "src_ip": "192.168.1.5",
+    "dst_ip": "192.168.1.1",
+    "protocol": "UDP",
+    "length": 97,
+    "src_port": 47706,
+    "dst_port": 53,
+    "ttl": 64,
+    "flags": null,
+    "summary": "192.168.1.5:47706 -> 192.168.1.1:53 [UDP] len=97"
+  }
+]
