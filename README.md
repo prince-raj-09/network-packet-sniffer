@@ -134,4 +134,8 @@ This tool is intended for educational use and authorized network monitoring only
 
 ## Author
 
-Built by [prince-raj-09](https://github.com/prince-raj-09) as part of a cybersecurity internship project.
+**Prince Raj**
+Cyber Security & Ethical Hacking Intern, Codtech IT Solutions Private Limited
+Intern ID: CITS2691
+
+GitHub: [prince-raj-09](https://github.com/prince-raj-09)
